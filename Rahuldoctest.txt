@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I am Rahul
 =======
 I am Rahul. I am a software engineer. This is a new line.
+>>>>>>> Stashed changes
+=======
+I am Rahul. I have 10 years of experience.
 >>>>>>> Stashed changes
